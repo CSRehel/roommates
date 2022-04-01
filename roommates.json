@@ -1,0 +1,18 @@
+{
+     "roommates": [
+          {
+               "id": "728257",
+               "correo": "gabrielle.robert@example.com",
+               "nombre": "Ms Gabrielle Robert",
+               "debe": 15000,
+               "recibe": 15000
+          },
+          {
+               "id": "01c441",
+               "correo": "timothe.fontai@example.com",
+               "nombre": "Mr Timothe Fontai",
+               "debe": 0,
+               "recibe": 15000
+          }
+     ]
+}
